@@ -80,8 +80,6 @@ A __push__ command is used to upload any contributions from a local repository t
 - https://www.techtarget.com/searchsoftwarequality/feature/Words-to-go-Version-control-process
 - 
 
-[Top](#williamotto_t3a1)
-
 ---
 ### Q2
 [Top](#williamotto_t3a1)
@@ -92,8 +90,6 @@ A piece of well-engineered software should possess the following qualities:
 
 - https://www.geeksforgeeks.org/software-engineering-software-product/
 
-[Top](#williamotto_t3a1)
-
 ---
 ### Q3
 [Top](#williamotto_t3a1)
@@ -103,16 +99,11 @@ The MERN stack consists of four components:
 __MongoDB__:
 - No SQL database system which means that 
 
-
-[Top](#williamotto_t3a1)
-
 ---
 ### Q4
 [Top](#williamotto_t3a1)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus semper enim, vitae consectetur odio molestie quis. Donec lacinia tellus ut ex semper aliquet. Morbi elementum tortor quis vestibulum facilisis. Morbi placerat mi et vehicula viverra. Proin vulputate arcu quam. In eget faucibus velit, eget tempor nisi. Proin nec maximus arcu, et blandit libero. In ut augue eu elit efficitur ultrices. Etiam at libero libero. In mollis maximus nisl nec mollis. Duis nibh metus, sollicitudin et neque sit amet, molestie tristique diam. Vestibulum porta tincidunt sem, vitae facilisis purus mollis nec.
-
-[Top](#williamotto_t3a1)
 
 ---
 ### Q5
@@ -120,15 +111,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus sem
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus semper enim, vitae consectetur odio molestie quis. Donec lacinia tellus ut ex semper aliquet. Morbi elementum tortor quis vestibulum facilisis. Morbi placerat mi et vehicula viverra. Proin vulputate arcu quam. In eget faucibus velit, eget tempor nisi. Proin nec maximus arcu, et blandit libero. In ut augue eu elit efficitur ultrices. Etiam at libero libero. In mollis maximus nisl nec mollis. Duis nibh metus, sollicitudin et neque sit amet, molestie tristique diam. Vestibulum porta tincidunt sem, vitae facilisis purus mollis nec.
 
-[Top](#williamotto_t3a1)
-
 ---
 ### Q6
 [Top](#williamotto_t3a1)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus semper enim, vitae consectetur odio molestie quis. Donec lacinia tellus ut ex semper aliquet. Morbi elementum tortor quis vestibulum facilisis. Morbi placerat mi et vehicula viverra. Proin vulputate arcu quam. In eget faucibus velit, eget tempor nisi. Proin nec maximus arcu, et blandit libero. In ut augue eu elit efficitur ultrices. Etiam at libero libero. In mollis maximus nisl nec mollis. Duis nibh metus, sollicitudin et neque sit amet, molestie tristique diam. Vestibulum porta tincidunt sem, vitae facilisis purus mollis nec.
-
-[Top](#williamotto_t3a1)
 
 ---
 ### Q7
@@ -136,15 +123,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus sem
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus semper enim, vitae consectetur odio molestie quis. Donec lacinia tellus ut ex semper aliquet. Morbi elementum tortor quis vestibulum facilisis. Morbi placerat mi et vehicula viverra. Proin vulputate arcu quam. In eget faucibus velit, eget tempor nisi. Proin nec maximus arcu, et blandit libero. In ut augue eu elit efficitur ultrices. Etiam at libero libero. In mollis maximus nisl nec mollis. Duis nibh metus, sollicitudin et neque sit amet, molestie tristique diam. Vestibulum porta tincidunt sem, vitae facilisis purus mollis nec.
 
-[Top](#williamotto_t3a1)
-
 ---
 ### Q8
 [Top](#williamotto_t3a1)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus semper enim, vitae consectetur odio molestie quis. Donec lacinia tellus ut ex semper aliquet. Morbi elementum tortor quis vestibulum facilisis. Morbi placerat mi et vehicula viverra. Proin vulputate arcu quam. In eget faucibus velit, eget tempor nisi. Proin nec maximus arcu, et blandit libero. In ut augue eu elit efficitur ultrices. Etiam at libero libero. In mollis maximus nisl nec mollis. Duis nibh metus, sollicitudin et neque sit amet, molestie tristique diam. Vestibulum porta tincidunt sem, vitae facilisis purus mollis nec.
-
-[Top](#williamotto_t3a1)
 
 ---
 ### Q9
@@ -152,15 +135,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus sem
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus semper enim, vitae consectetur odio molestie quis. Donec lacinia tellus ut ex semper aliquet. Morbi elementum tortor quis vestibulum facilisis. Morbi placerat mi et vehicula viverra. Proin vulputate arcu quam. In eget faucibus velit, eget tempor nisi. Proin nec maximus arcu, et blandit libero. In ut augue eu elit efficitur ultrices. Etiam at libero libero. In mollis maximus nisl nec mollis. Duis nibh metus, sollicitudin et neque sit amet, molestie tristique diam. Vestibulum porta tincidunt sem, vitae facilisis purus mollis nec.
 
-[Top](#williamotto_t3a1)
-
 ---
 ### Q10
 [Top](#williamotto_t3a1)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus semper enim, vitae consectetur odio molestie quis. Donec lacinia tellus ut ex semper aliquet. Morbi elementum tortor quis vestibulum facilisis. Morbi placerat mi et vehicula viverra. Proin vulputate arcu quam. In eget faucibus velit, eget tempor nisi. Proin nec maximus arcu, et blandit libero. In ut augue eu elit efficitur ultrices. Etiam at libero libero. In mollis maximus nisl nec mollis. Duis nibh metus, sollicitudin et neque sit amet, molestie tristique diam. Vestibulum porta tincidunt sem, vitae facilisis purus mollis nec.
-
-[Top](#williamotto_t3a1)
 
 ---
 ### Q11
@@ -168,15 +147,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus sem
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus semper enim, vitae consectetur odio molestie quis. Donec lacinia tellus ut ex semper aliquet. Morbi elementum tortor quis vestibulum facilisis. Morbi placerat mi et vehicula viverra. Proin vulputate arcu quam. In eget faucibus velit, eget tempor nisi. Proin nec maximus arcu, et blandit libero. In ut augue eu elit efficitur ultrices. Etiam at libero libero. In mollis maximus nisl nec mollis. Duis nibh metus, sollicitudin et neque sit amet, molestie tristique diam. Vestibulum porta tincidunt sem, vitae facilisis purus mollis nec.
 
-[Top](#williamotto_t3a1)
-
 ---
 ### Q12
 [Top](#williamotto_t3a1)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus semper enim, vitae consectetur odio molestie quis. Donec lacinia tellus ut ex semper aliquet. Morbi elementum tortor quis vestibulum facilisis. Morbi placerat mi et vehicula viverra. Proin vulputate arcu quam. In eget faucibus velit, eget tempor nisi. Proin nec maximus arcu, et blandit libero. In ut augue eu elit efficitur ultrices. Etiam at libero libero. In mollis maximus nisl nec mollis. Duis nibh metus, sollicitudin et neque sit amet, molestie tristique diam. Vestibulum porta tincidunt sem, vitae facilisis purus mollis nec.
-
-[Top](#williamotto_t3a1)
 
 ---
 ### Q13
